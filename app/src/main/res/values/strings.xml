@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Your weather</string>
+    <string name="version">v1.0</string>
+    <string name="hint_city">Enter your city</string>
+    <string name="weather_button">show the weather</string>
+</resources>
